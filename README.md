@@ -24,7 +24,7 @@ This is a simple **Task Management Application** built using **Python Flask** st
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/MubashirAnsariTask-Management-App.git
+    git clone https://github.com/MubashirAnsari/Task-Management-App.git
     cd Task-Management-App
     ```
 
